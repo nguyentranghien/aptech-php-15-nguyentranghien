@@ -1,0 +1,9 @@
+.my-div {
+    width: 160px;
+    height: 160px;
+    background: slategrey;
+    -moz-border-radius: 80px;
+    -webkit-border-radius: 80px;
+    --border-radius: 80px;
+    border-radius: 80px;
+}
